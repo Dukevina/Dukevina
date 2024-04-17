@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dukevina
-- 👀 I’m interested in using reinforcement learning to study game theory
+- 👀 I’m interested in using machine learning to study macroeconomics.
 - 🌱 I’m currently learning reinforcement learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
